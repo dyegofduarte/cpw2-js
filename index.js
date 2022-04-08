@@ -44,9 +44,9 @@ function mean(grades){
 
     // AQUI COMEÇA O MEU CÓDIGO
     let media = (grades[0] + grades[1] + grades[2]) / 3;
-
+    
     parseInt(media);
-
+    //console.log("MEDIA EH " + media);
     return media;
     // AQUI TERMINA O MEU CÓDIGO
 
@@ -180,9 +180,6 @@ function wide(strDate){
     // AQUI TERMINA O MEU CÓDIGO
     
 }
-
-
-
       
 
     
