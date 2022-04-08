@@ -113,11 +113,7 @@ function wide(strDate){
 
     mes = parseInt(mes);
 
-    // if(!mes)
-    //     {
-    //         return "";
-    //             }
-    
+        
     switch (mes)
         {
             case 1:
